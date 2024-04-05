@@ -5,8 +5,11 @@
 ## Self Definition
 Driven by a passion for deep learning challenges, I tackle my projects with vigor and a pronounced talent for innovation, with a special focus on GenAI, deep learning applications, and sound processing. Through practical Python projects, I demonstrate a methodical approach to problem-solving and a dedication to continuous learning. My background in sound engineering complements my technical skills, allowing for innovative approaches to AI challenges. My aim is to contribute to impactful advancements in deep learning, leveraging my understanding of both the technical and creative aspects of this field.
 
-## Strengths
+## Strength
 Dedicated to GenAI and deep learning, I prioritize effective and usable solutions, adhering to a "getting things done" philosophy. My expertise extends to sound processing, underscoring a commitment to excellence and high organizational standards in tackling complex challenges.
+
+## Mentor Opinion
+"Janek is a quick-learning, ambitious and very inquiring student. During our numerous live programming sessions he always showcases great coding speed without any loss of code quality. He's also accepting feedback and improves the design willingly. Connecting solid machine learning basics with exceptional audio processing hands-on experience, Janek renders himself a solid fit for an AI-based sound-involving project." - Piotr Bosowski, mentor
 
 ## Recent projects
 - [CheXConvClassifier](https://github.com/Jan-Swiderski/CheXConvClassifier)
