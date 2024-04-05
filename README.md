@@ -33,5 +33,5 @@ Dedicated to GenAI and deep learning, I prioritize effective and usable solution
 
 ## Spoken Languages
 - English — Advanced
-- German — Advanced
+- German — Good
 - Polish — Native
