@@ -70,5 +70,5 @@ Teamwork & communication · Analytical thinking & problem solving · Research mi
 ## Contact
 
 📧 Email: [jan.wiktor.swiderski@gmail.com](mailto\:jan.wiktor.swiderski@gmail.com)\
-🔗 LinkedIn: [linkedin.com/in/jan-swiderski](https://www.linkedin.com/in/jan-swiderski)\
+🔗 LinkedIn: [linkedin.com/in/jan-swiderski](https://www.linkedin.com/in/jan-swiderski)
 
