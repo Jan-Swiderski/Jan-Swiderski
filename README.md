@@ -1,37 +1,75 @@
-### Hi there 👋
+# Hi, I'm Jan Świderski 👋
+
+I am a Machine Learning Engineer & Researcher with a strong background in **deep learning, audio technology, and backend engineering**.\
+My focus is on designing and delivering **complete ML pipelines**, from data preparation and preprocessing, through model design and training, to evaluation and deployment.\
+I specialize in audio applications of ML, while keeping my skill set broad and applicable across domains.
+
+---
+
+## About Me
+
+- Passionate about solving complex ML challenges with a systematic and creative approach.
+- Experienced in **end-to-end research workflows**, covering the full lifecycle of ML projects: exploratory data analysis, dataset design, hypothesis testing, hyperparameter tuning, ablation studies, and evaluation. I am used to developing solutions from start to finish, translating raw data and research ideas into trained models, validated results, and practical implementations.
+- Strong foundation in **audio engineering and DSP**, enabling unique perspectives in ML for speech and sound.
+- Production-ready mindset: connecting research with reproducible, scalable engineering practices.
+
+---
+
 ## Skills
-![GitHub_Skills](https://github.com/Jan-Swiderski/Jan-Swiderski/assets/152731859/528bc0a2-8ecd-4381-b757-dce2788f4266)
 
-## Self Definition
-Driven by a passion for deep learning challenges, I tackle my projects with vigor and a pronounced talent for innovation, with a special focus on deep learning applications and sound processing. Through practical Python projects, I demonstrate a methodical approach to problem-solving and a dedication to continuous learning. My background in sound engineering complements my technical skills, allowing for innovative approaches to AI challenges. My aim is to contribute to impactful advancements in deep learning, leveraging my understanding of both the technical and creative aspects of this field.
+**Machine Learning & AI**\
+Python · PyTorch · PyTorch Lightning · Optuna · Scikit-learn · Transformers · NumPy · Pandas · Torchaudio · Librosa · Auraloss · TorchMetrics · TensorBoard · Matplotlib · Reproducible experiments
 
-## Strength
-Dedicated to deep learning, I prioritize effective and usable solutions, adhering to a "getting things done" philosophy. My expertise extends to sound processing, underscoring a commitment to excellence and high organizational standards in tackling complex challenges.
+**Audio ML & DSP**\
+Speech & audio signal processing · FFT/STFT · speech synthesis · evaluation metrics in audio (SD-SDR, SI-SDR, STFT) · preprocessing algorithms · dataset design · perceptual evaluation · critical listening and signal analysis expertise (formant structure, harmonic content, fundamental tones, sibilants, phase relationships, as well as interpreting time and frequency domain plots)
 
-## Mentor Opinion
-"Janek is a quick-learning, ambitious and very inquiring student. During our numerous live programming sessions he always showcases great coding speed without any loss of code quality. He's also accepting feedback and improves the design willingly. Connecting solid machine learning basics with exceptional audio processing hands-on experience, Janek renders himself a solid fit for an AI-based sound-involving project." - Piotr Bosowski, mentor
+**Engineering**\
+Backend (Flask, SQLAlchemy, PostgreSQL) · API design · Python packaging & testing · Docker · Git · CLI tools · production-ready mindset
 
-## Recent projects
-- [CheXConvClassifier](https://github.com/Jan-Swiderski/CheXConvClassifier)
-- [SelExtCopyUtil](https://github.com/Jan-Swiderski/SelExtCopyUtil)
-- [SDF Backend Python](https://github.com/Jan-Swiderski/sdf_backend_python)
+**Soft Skills**\
+Teamwork & communication · Analytical thinking & problem solving · Research mindset · Reproducible workflows · Critical listening & creativity
 
-## Commercial Projects
-- Music Production & Composition, Mixing & Mastering, Vocal Engineering & Sound Design for haaipapi - Polish TikTok Influencer with 1.3M followers.
+---
 
-  *Co-produced a full-scale commercial music project for haaipapi, incorporating composition, production, vocal engineering and sound design, mixing, and mastering of a pop track. Through this endeavor, I fortified my        structured and thoughtful approach to work, meeting the highest audio industry standards. Collaborating closely with the artist also allowed me to enhance my soft skills, ensuring a creative and supportive atmosphere.*
+## Highlighted Projects
+
+- **Audio Inpainting for Speech using Custom Transformer-based Neural Network**
+
+  *(Private repo – access on request)*\
+  Diploma thesis project: developed a novel model for reconstructing corrupted fragments of speech recordings, operating fully in the time domain.\
+  Built the **entire ML pipeline**: preprocessing & dataset design, model architecture, training, hyperparameter optimization (Optuna), and evaluation.\
+  The model achieved strong objective metrics and listening test results.&#x20;
+
+- **[Neural Networks for X-Ray Image Classification (CheXpert Dataset)](https://github.com/Jan-Swiderski/neural_networks_for_x_ray_image_classification)**\
+  Built custom CNNs and applied transfer learning (MobileNetV3) to classify chest radiographs.\
+  Delivered high accuracy under resource constraints and developed a **modular framework** for re-usable ML code across domains.
+
+- **[SelExtCopyUtil (Selective File Extension Copy Utility)](https://github.com/Jan-Swiderski/selective_file_extension_bulk_copy_utility)**\
+  A cross-platform standalone tool for efficient file management, packaged for both Windows and macOS.
+
+---
+
+## Commercial Experience
+
+- **Music Production & Composition, Vocal Engineering & Sound Design, ****Mixing & Mastering**** for haaipapi (1.4M followers on TikTok)**\
+  Co-produced a full-scale commercial music project, ensuring top industry standards in production, mixing, and mastering.\
+  Strengthened collaborative and organizational skills through direct cooperation with the artist.
+
+---
 
 ## Education
-- Extracurricular Activity: Deep Learning, Computer Science and Mathematics - (2023 - Present)
-	  
-    *Instructor: Piotr Bosowski, Deep Learning Engineer at Nvidia with a*
-	  *practical and theoretical background in Computer Science,*
-	  *Mathematics, and Physics*
-- Sound Engineering, Bachelor's degree (2022 - Present)
 
-	*Akademia Dziennikarstwa i Realizacji Dźwięku (Academy of Journalism and Sound Production), Warsaw*
+- **Sound Engineering, Bachelor's degree (2022-10 – 2025-09)**\
+  Akademia Dziennikarstwa i Realizacji Dźwięku, Warsaw\
+  Focus on acoustics, signal processing, sound synthesis, and integration of deep learning in audio.
 
-## Spoken Languages
-- English — Advanced
-- German — Good
-- Polish — Native
+- **Extracurricular: Deep Learning, Computer Science & Mathematics**\
+  Mentorship with Piotr Bosowski (Deep Learning Engineer at Nvidia) covering both theoretical and practical aspects of neural networks and ML research.
+
+---
+
+## Contact
+
+📧 Email: [jan.wiktor.swiderski@gmail.com](mailto\:jan.wiktor.swiderski@gmail.com)\
+🔗 LinkedIn: [linkedin.com/in/jan-swiderski](https://www.linkedin.com/in/jan-swiderski)\
+
