@@ -34,7 +34,6 @@ Teamwork & communication · Analytical thinking & problem solving · Research mi
 ## Highlighted Projects
 
 - **Audio Inpainting for Speech using Custom Transformer-based Neural Network**
-
   *(Private repo – access on request)*\
   Diploma thesis project: developed a novel model for reconstructing corrupted fragments of speech recordings, operating fully in the time domain.\
   Built the **entire ML pipeline**: preprocessing & dataset design, model architecture, training, hyperparameter optimization (Optuna), and evaluation.\
